@@ -870,6 +870,18 @@
         ]
       }
     },
+    "rankreactor": {
+      "sha": "1b1fefd9736d6dda68f5a46243b9298548d473ed",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "rankreactor",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "sentry": {
       "sha": "91e0cb6c79730e02bcf8f7dbcb1795e677fe8cc5",
       "version": "1.4.0",
