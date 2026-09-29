@@ -382,6 +382,19 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "rankreactor",
+      "description": "Hosted RankReactor SEO MCP: generate and list SEO articles and UGC videos, and read keywords, analytics, technical SEO, and site-audit metrics. Browser OAuth; no API key in config.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rankreactorai/rankreactorai-mcp.git",
+        "sha": "1b1fefd9736d6dda68f5a46243b9298548d473ed"
+      },
+      "homepage": "https://www.rankreactor.ai",
+      "keywords": ["rankreactor", "rankreactorai", "rankreactor mcp", "rankreactor seo"],
+      "domains": ["rankreactor.ai", "www.rankreactor.ai"]
     }
   ]
 }
