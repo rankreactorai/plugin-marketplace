@@ -871,7 +871,7 @@
       }
     },
     "rankreactor": {
-      "sha": "1b1fefd9736d6dda68f5a46243b9298548d473ed",
+      "sha": "226afe5f44e8bf220b5a871fff24e0d37aea602a",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
